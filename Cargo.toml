@@ -1,0 +1,10 @@
+[package]
+name = "smust"
+version = "0.1.0"
+authors = ["yarieldis <yarieldis@gmail.com>"]
+
+[dependencies]
+
+[[bin]]
+name = "smust"
+path = "main.rs"
